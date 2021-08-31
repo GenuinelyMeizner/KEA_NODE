@@ -4,7 +4,22 @@
 
 [Learn mode about Node.js](https://nodejs.org/en/)
 
-**Bold**
+## Git - How to
 
-*Cursive*
+Get my repository:
 
+```
+git clone https://github.com/GenuinelyMeizner/KEA_NODE
+```
+
+Get my updates:
+```
+git pull
+```
+
+Add files to GitHub:
+```
+git add [file/folder] [or -A for all]
+git commit -m "[Message]"
+git push
+```
