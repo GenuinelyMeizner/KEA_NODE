@@ -3,7 +3,7 @@
 // --------------------------------------
 // Exercise 1 - Retrieve value from object by key
 
-const myObj = {"message": "Hello, earthling! I bring peace."};
+const myObj = {"message": 'Hello, earthling! I bring peace.'};
 
 console.log(myObj.message);
 
@@ -14,7 +14,7 @@ console.log(myObj.message);
 
 // Create an object that has your name and age. 
 
-const mySelf = {"name": "Frederik", "age": 26};
+const mySelf = {"name": 'Frederik', "age": 26};
 
 console.log(mySelf);
 
