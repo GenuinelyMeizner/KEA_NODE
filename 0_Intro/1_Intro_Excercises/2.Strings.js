@@ -41,7 +41,6 @@ const letters = "abc";
 
 console.log(letters.indexOf("c"));
 
-
 // --------------------------------------
 // Exercise 7 - Replace
 
@@ -49,7 +48,7 @@ const fact = "You are learning javascript!";
 
 // capitalize the J in Javascript
 
-
+console.log(fact.replace('j', 'J'));
 
 // --------------------------------------
 
